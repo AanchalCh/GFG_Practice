@@ -1,5 +1,4 @@
 #include <iostream>
-#include <unordered_map>
 using namespace std;
 
 void get_result(int a[], int size)
