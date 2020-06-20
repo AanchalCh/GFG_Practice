@@ -25,7 +25,7 @@ int main()
 	        continue;
 	        
 	        else if(k<a[0]) 
-	        {
+	        { 
 	            cout<<-1<<endl; 
 	            break;
 	            
